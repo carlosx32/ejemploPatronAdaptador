@@ -11,4 +11,9 @@ package ejemploadapter.VehiculosLocales;
  */
 public interface vehiculoAbs {
     String PilotoAutomatico();
+    
+    
+    
+    
+    //
 }
