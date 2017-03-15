@@ -1,0 +1,18 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ejemploadapter.VehiculosLocales;
+
+/**
+ *
+ * @author carandy
+ */
+public class bicicletaColombiana implements vehiculoAbs {
+
+    @Override
+    public String PilotoAutomatico() {
+        return "esta bicicleta es veloz pero ten cuidado por que no tiene piloto automatico";
+    }
+}
