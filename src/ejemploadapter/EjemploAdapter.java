@@ -29,6 +29,7 @@ public class EjemploAdapter {
         
         System.out.println("\nSuponemos que encendemos el auto pilot de un Ford Fiesta,de la cual NO tenemes el codigo fuente, por lo tanto lo hacemos mediante el adaptador");
         miCoche = new AdaptadorF_F_Estadounidense();
-        System.out.println(miCoche.PilotoAutomatico());        
+        System.out.println(miCoche.PilotoAutomatico());    
+        //asdas
     }
 }
